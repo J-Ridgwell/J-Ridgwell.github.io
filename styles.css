@@ -27,10 +27,11 @@ body {
 
 .intro p {
   line-height: 1.5;
+  margin-bottom: 50px;
 }
 
 .demo-video {
-  margin: 75px 0 75px 0;
+  margin: 50px 0 75px 0;
 }
 
 .features {
